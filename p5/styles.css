@@ -110,6 +110,11 @@ footer {
     padding: 10px 0;
     margin-top: 20px;
 }
+
+body, html {
+    margin: 0;
+    padding: 0;
+}
 .course-list {
     background-color: #ffffff;
     padding: 20px;
